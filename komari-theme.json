@@ -1,9 +1,9 @@
 {
-    "name": "Komari Preview",
-    "short": "KomariPreview", 
+    "name": "Komari PreviewL",
+    "short": "KomariPreviewL", 
     "description": "Preview theme for Komari Monitor",
     "version": "1.0.0",
-    "author": "Akizon77",
+    "author": "LianZhou",
     "url": "https://github.com/komari-monitor/komari-web",
     "preview": "preview.png"
 }

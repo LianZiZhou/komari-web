@@ -1,6 +1,15 @@
 import { StrictMode, useMemo } from "react";
 import { createRoot } from "react-dom/client";
 import "./global.css";
+// import "./css/assets/bootstrap.min.css"
+// import "./css/animations.css"
+// import "./css/colors.css"
+// import "./css/dimensions.css"
+// import "./css/fonts.css"
+// import "./css/gradients.css"
+// import "./css/layout.css"
+// import "./css/shadows.css"
+// import "./css/themes.css"
 import { Theme } from "@radix-ui/themes";
 import "@radix-ui/themes/styles.css";
 import {
